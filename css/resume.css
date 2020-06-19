@@ -1,0 +1,37 @@
+
+.resume{
+    background-color:pink;
+    margin-top:6%;
+    margin-left: 33%;
+    margin-right: 2%;
+    margin-bottom: 10%;
+    padding: 2%;
+    justify-content: space-around;
+    border-radius: 5%;
+   
+}
+.main{
+    background-color:green;
+    display: flex;
+    margin: 10%;
+    justify-content: space-between;
+}
+.card{
+    background-color: pink;
+    height:10cm;
+    width:6cm;
+    margin:4%;
+    text-align: center;
+    border-radius:20% 0%;
+    justify-content: space-around;
+    position:fixed;
+}
+body{
+    background-color: aquamarine;
+}
+img{
+    border-radius:20%;
+}
+.card:hover{
+    color:red;
+}

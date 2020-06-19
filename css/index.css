@@ -1,0 +1,29 @@
+/*(1)-rep *- universal selector */
+*{
+    text-transform: uppercase;
+}
+/*(2)-rep #-id selector for unique or particular paragraph*/
+#main{
+    width:100%;
+    justify-content: space-around;
+}
+/* (3) tag selector-ex-p*/
+/*(4) class selector-rep='.' -to change selected */
+/*(5) group selector-p,h*/
+.card{
+    width: 30%;
+    background-color:#aaa;
+    text-align:center;
+    justify-content: space-around;
+    margin:0 auto;
+    border:1px solid red;
+    border-radius:20% 0;
+    box-shadow:6px 6px 6px -2px ;
+}
+/*styles for image*/
+.card>img{
+    
+    height:40%;
+    width:50%;
+    border-radius:20% 20%;
+}

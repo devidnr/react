@@ -1,0 +1,122 @@
+.main{
+    background-color:green;
+    margin: 5%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.card{
+    background-color: pink;
+    text-align: center;
+    margin: 6%;
+    width: 45%;
+    height: 11cm;
+    border-radius: 10%;
+}
+.resume{
+    background-color:bisque;
+    padding: 4%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-bottom:5% ;
+    border-radius: 10%;
+}
+@media screen and (min-width:320px) and (max-width:480px )
+{
+    .main{
+        background-color:green;
+        margin: 5%;
+        display: flex;
+    flex-direction: column;
+    }
+    .card{
+        background-color: pink;
+        width:100%;
+        text-align: center;
+
+    }
+    .resume{
+        background-color: rosybrown;
+        padding: 10%;
+    }
+
+}
+@media screen and (min-width:481px) and (max-width:780px )
+{
+    .main{
+        background-color:green;
+        margin: 5%;
+        display: flex;
+        flex-direction: row;
+    }
+    .card{
+        background-color: pink;
+        text-align: center;
+        margin: 6%;
+        width: 45%;
+        height: 11cm;
+        border-radius: 10%;
+    }
+    .resume{
+        background-color:bisque;
+        padding: 4%;
+        margin-top: 5%;
+        margin-left: 5%;
+        margin-bottom:5% ;
+        border-radius: 10%;
+    }
+
+
+}
+@media screen and (min-width:481px) and (max-width:780px )
+{
+    .main{
+        background-color:green;
+        margin: 5%;
+        display: flex;
+        flex-direction: row;
+    }
+    .card{
+        background-color: pink;
+        text-align: center;
+        margin: 6%;
+        width: 45%;
+        height: 11cm;
+        border-radius: 10%;
+    }
+    .resume{
+        background-color:bisque;
+        padding: 4%;
+        margin-top: 5%;
+        margin-left: 5%;
+        margin-bottom:5% ;
+        border-radius: 10%;
+    }
+
+
+}
+@media screen and (min-width:781px) and (max-width:1350px)
+{
+    .main{
+        background-color:green;
+        margin: 5%;
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .card{
+        background-color: pink;
+        text-align: center;
+        margin: 6%;
+        width: 45%;
+        height: 11cm;
+        border-radius: 10%;
+    }
+    .resume{
+        background-color:bisque;
+        padding: 4%;
+        margin-top: 5%;
+        margin-left: 5%;
+        margin-bottom:5% ;
+        border-radius: 10%;
+    }
+
+}

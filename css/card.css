@@ -1,0 +1,40 @@
+#main{
+    margin:10%;
+    background-color:#61CF86;
+    /* padding:4%; */
+    display:flex;
+    justify-content: space-around;
+    border-radius: 4%;
+}
+*{
+    text-transform: uppercase;
+}
+body{
+background-color: aquamarine;
+}
+.sub{
+   background-color:rgb(57, 120, 110);
+   width:25%;
+   margin:4%;
+   border-radius: 4%;
+   text-align: center;
+   box-shadow: 4px 4px 5px 5px;
+}
+.sub:hover{
+    color:red;
+}
+img{
+    width:70%;
+    height:50%;
+    border-radius: 6%;
+    margin:4%;
+}
+p{
+    font-size: 20px;
+}
+a{
+  text-decoration: none;
+}
+h3{
+    color:black;
+}
