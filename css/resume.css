@@ -10,7 +10,7 @@
     border-radius: 5%;
    
 }
-.main{
+#main{
     background-color:green;
     display: flex;
     margin: 10%;
@@ -35,3 +35,6 @@ img{
 .card:hover{
     color:red;
 }
+table {
+    border: 1px solid black;
+  }
