@@ -1,0 +1,26 @@
+{
+    "resume":[
+        {
+    "details":{
+        "carrer":"To become associated with a company where I can utilize my skills and gain further experience while enhancing the company’s productivity.",
+        "education":[
+           {
+               "edu":{
+            "s.no":"1",
+            "Institute":"Gier",
+            "per":"80"
+        }
+    },
+     {   "edu":{
+            "s.no":"1",
+            "Institute":"Gier",
+            "per":"80"
+        }
+        }],
+    "hobbies":{
+        "h1":"playing Carroma",
+        "h2":"doing paper crafts"
+    }}
+    }
+  ]
+}
