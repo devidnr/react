@@ -57,6 +57,7 @@ var div1=document.createElement('div');
  
  var tbl=document.createElement('TABLE');
  tbl.id="tableId";
+ tbl.classList.add("table");
  div2.appendChild(tbl);
  var tr= document.createElement("tr");
  tr.id="mytr";

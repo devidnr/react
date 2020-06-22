@@ -33,9 +33,58 @@ console.log(info.carrer)
                     <p>
                         { info.carrer}
                     </p>
-                    </div>
-                 </div>
-                </div>
-            </div> 
+                    <h2>Education Details</h2>
+                    <div class="container mt-5">
+            <div class="table-responsive-lg">
+        <table class="table table-bordered
+         table-striped table-hover">
+            <thead class="thead-dark">
+               <tr>
+                   <th scope="col">S.NO</th>
+                   <th>Institute</th>
+                <th>percentage</th>
+           </tr>
+            </thead>
+            <tbody>
+              <tr>
+                  <td>1</td>
+                 <td >{info.edu.coll1}</td>
+                  <td>{info.edu.per1}</td>
+              </tr>
+              <tr>
+              <td>2</td>
+              <td >{info.edu.coll2}</td>
+                  <td>{info.edu.per2}</td>
+               
+            </tr>
+            <tr>
+            <td>3</td>
+            <td >{info.edu.coll3}</td>
+                  <td>{info.edu.per3}</td>
+            </tr>
+            
+            </tbody>
+           
+        </table>
+    </div>
+</div> 
+<h2>Skills</h2>
+<ul>
+    <li>{info.skills.s1}</li>
+    <li>{info.skills.s2}</li>
+    <li>{info.skills.s3}</li>
+    <li>{info.skills.s4}</li>
+</ul>
+<h2>Hobbies</h2>
+<ul>
+    <li>{info.Hobbies.h1}</li>
+    <li>{info.Hobbies.h2}</li>
+    
+</ul>
+
+        </div>
+         </div>
+        </div>
+        </div> 
                    )
 }

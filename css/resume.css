@@ -32,6 +32,6 @@ img{
 .card:hover{
     color:red;
 }
-table {
+table,td {
     border: 1px solid black;
   }

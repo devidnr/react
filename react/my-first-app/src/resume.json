@@ -7,7 +7,25 @@
         "phone":"768678678",
         "email":"devyubyhhgh@gmail.com"
     },
-    "carrer":"i want to explore my entire knownledge to give better output "
+    "carrer":"i want to explore my entire knownledge to give better output ",
+    "edu":{
+        "coll1":"GIER",
+        "coll2":"CHAITANYA",
+        "coll3":"Bhashyam",
+        "per1":"95",
+        "per2":"90",
+        "per3":"88"
+    },
+    "skills":{
+        "s1":"oracle",
+        "s2":"sql",
+        "s3":"c",
+        "s4":"c++"
+    },
+    "Hobbies":{
+        "h1":"playing carroms",
+        "h2":"paper crafting"
+    }
     },
     {
     "basics":{
@@ -16,7 +34,25 @@
         "phone":"7989798688",
         "email":"ram.1234@gmail.com"
     },
-    "carrer":"i want to explore my entire knownledge to give better output "
+    "carrer":"i want to explore my entire knownledge to give better output ",
+    "edu":{
+        "coll1":"GIER",
+        "coll2":"CHAITANYA",
+        "coll3":"Bhashyam",
+        "per1":"95",
+        "per2":"90",
+        "per3":"88"
+    },
+    "skills":{
+        "s1":"oracle",
+        "s2":"sql",
+        "s3":"c",
+        "s4":"c++"
+    },
+    "Hobbies":{
+        "h1":"playing carroms",
+        "h2":"paper crafting"
+    }
 }
 
 
